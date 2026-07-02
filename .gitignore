@@ -1,0 +1,11 @@
+build/
+.cache/
+*.o
+moc_*
+qrc_*
+ui_*
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+winver
